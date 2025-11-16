@@ -17,7 +17,7 @@
   "compatibility_date": "2025-11-16",
   "pages_build_output_dir": ".next",
   "build": {
-    "command": "npm install",
+    "command": "npm run build",
     "cwd": ".",
     "watch_dir": "."
   },
